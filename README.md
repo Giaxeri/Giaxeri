@@ -24,7 +24,7 @@ const gianfranco = {
   role: "Systems Engineering Student",
   semester: "8th",
   university: "Universidad El Bosque",
-  location: "Bogotá, Colombia 🇨🇴",
+  location: "Bogotá, Colombia",
   languages: ["Spanish (native)", "English (C1)", "French (basic)"],
 
   code: ["C++17", "TypeScript", "JavaScript", "Java", "Python", "C#", "PHP", "SQL"],
