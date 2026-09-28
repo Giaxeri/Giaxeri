@@ -69,8 +69,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Giaxeri&show_icons=true&hide_border=true&count_private=true" alt="Estadísticas de GitHub">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giaxeri&layout=compact&hide_border=true&langs_count=6" alt="Lenguajes más usados">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Giaxeri&theme=github_dark" alt="Estadísticas de GitHub">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Giaxeri&theme=github_dark" alt="Lenguajes más usados">
 
 </div>
 
