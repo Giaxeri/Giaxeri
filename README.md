@@ -1,23 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0f1e,50:5e1830,100:b0476a&height=200&section=header&text=Gianfranco%20Peniche&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Systems%20Engineering%20Student%20%E2%80%A2%20Software%20Developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Gianfranco Peniche banner">
+<img src="assets/banner.png" width="100%" alt="* GIANFRANCO PENICHE - Systems Engineering Student">
 
 <a href="https://github.com/Giaxeri">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=B0476A&center=true&vCenter=true&width=620&lines=Systems+Engineering+Student+%40+Universidad+El+Bosque;C%2B%2B+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+Python;Game+engines%2C+databases+%26+cybersecurity;Looking+for+a+software+internship+%F0%9F%9A%80" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3400&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=720&height=46&lines=*+Systems+Engineering+Student+%40+U.+El+Bosque;*+C%2B%2B+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+Python;*+Looking+for+a+software+internship.;*+You+feel+like+you're+going+to+have+a+good+time." alt="Typing SVG">
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/gianfranco-peniche-uribe-8b154a3b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:penichegianfranco@gmail.com"><img src="https://img.shields.io/badge/Email-5e1830?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://giaxeri.github.io/Determination-Battle-Simulator/"><img src="https://img.shields.io/badge/Live_Demo-b0476a?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live demo"></a>
-  <img src="https://komarev.com/ghpvc/?username=Giaxeri&color=b0476a&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
+  <a href="https://github.com/Giaxeri?tab=repositories"><img src="assets/btn-projects.png" width="180" alt="Projects"></a>
+  <a href="https://www.linkedin.com/in/gianfranco-peniche-uribe-8b154a3b8/"><img src="assets/btn-linkedin.png" width="180" alt="LinkedIn"></a>
+  <a href="mailto:penichegianfranco@gmail.com"><img src="assets/btn-email.png" width="180" alt="Email"></a>
+  <a href="https://giaxeri.github.io/Determination-Battle-Simulator/"><img src="assets/btn-play.png" width="180" alt="Play demo"></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Giaxeri&color=red&style=for-the-badge&label=SOULS+WHO+VISITED" alt="Profile views">
 
 </div>
 
 ---
 
-## ✦ About Me
+## ❤️ About Me
 
 ```javascript
 const gianfranco = {
@@ -48,7 +50,7 @@ cryptography — and turning that knowledge into tools that are clear, fast and 
 
 ---
 
-## 🚀 Languages & Tools
+## 🎒 ITEM · Languages & Tools
 
 <div align="center">
 
@@ -59,7 +61,7 @@ cryptography — and turning that knowledge into tools that are clear, fast and 
 
 ---
 
-## 🧭 Engineering Philosophy
+## 💬 ACT · Engineering Philosophy
 
 <table>
   <tr>
@@ -80,7 +82,7 @@ cryptography — and turning that knowledge into tools that are clear, fast and 
 
 ---
 
-## ⭐ Featured Projects
+## ⚔️ FIGHT · Featured Projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -93,7 +95,7 @@ cryptography — and turning that knowledge into tools that are clear, fast and 
 
 ---
 
-## 📊 GitHub Dashboard
+## 📊 STATS · GitHub Dashboard
 
 <div align="center">
 
@@ -109,7 +111,7 @@ cryptography — and turning that knowledge into tools that are clear, fast and 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Giaxeri&theme=dark&hide_border=true&background=0D1117&ring=B0476A&fire=B0476A&currStreakLabel=B0476A&sideLabels=E9C9D3&dates=8B949E" alt="Contribution streak">
+<img src="https://streak-stats.demolab.com?user=Giaxeri&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FF0000&fire=FFFF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFF00&sideLabels=FFFFFF&dates=AAAAAA&border_radius=0" alt="Contribution streak">
 
 </div>
 
@@ -123,7 +125,7 @@ cryptography — and turning that knowledge into tools that are clear, fast and 
 
 ---
 
-## 🌱 Currently Learning
+## ⭐ SAVE POINT · Currently Learning
 
 <table>
   <tr>
@@ -147,22 +149,21 @@ cryptography — and turning that knowledge into tools that are clear, fast and 
 - 🧩 **Data-driven systems** with clear contracts between components
 - 📦 **Installers & automation** that make projects easy to run
 
-## 🏆 Achievements
+## 🏆 EXP · Achievements
 
 - 🥇 **Winner — Innovation Section**, *We Are Energy* contest by **ENEL**. Prize: a trip to the *"The Energy of Things"* camp near Rome, Italy.
 
 ---
 
-## 📫 Let's Connect
+## 💛 MERCY · Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/gianfranco-peniche-uribe-8b154a3b8/"><img src="https://img.shields.io/badge/LinkedIn-Gianfranco_Peniche_Uribe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:penichegianfranco@gmail.com"><img src="https://img.shields.io/badge/Email-penichegianfranco%40gmail.com-5e1830?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:penichegianfranco@gmail.com"><img src="https://img.shields.io/badge/Email-penichegianfranco%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-**Code • Systems • Curiosity**<br>
-*Building software that is easy to understand, run and trust.*
+**Code • Systems • DETERMINATION**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b0476a,50:5e1830,100:3a0f1e&height=110&section=footer" width="100%" alt="Footer">
+<img src="assets/footer.png" width="100%" alt="* (You are filled with DETERMINATION.)">
 
 </div>
