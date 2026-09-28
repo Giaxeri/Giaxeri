@@ -63,7 +63,7 @@
 | ❤️ **[Determination Battle Simulator](https://github.com/Giaxeri/Determination-Battle-Simulator)** · [▶ Jugar](https://giaxeri.github.io/Determination-Battle-Simulator/) | Recreación web de 9 combates de UNDERTALE con 136 ataques. Motor propio sin dependencias, interpolación de movimiento, extractor de assets binarios en Python y versión bilingüe. | JavaScript · Canvas · Web Audio · Python |
 | 🎰 **[Casa de Apuestas](https://github.com/Giaxeri/PRF_PROG1_20232_EspitiaAlejandra_GuerreroValentina_HernandezJuanPablo_PenicheGianfranco)** | Aplicación de escritorio para gestionar sedes, apostadores, 5 juegos y reportes. MVC + DAO/DTO, persistencia en archivos y 123 pruebas unitarias. | Java · Swing · JUnit |
 | 📻 **[Kubaru Forrest M](https://github.com/Giaxeri/KUBARUFORRESTM_FRONTEND)** | Frontend web para gestionar emisoras y canciones con reproductor integrado, conectado a una API REST. | Java EE · JSF · PrimeFaces · REST |
-| 🔐 **[Criptoanálisis Clásico](https://github.com/Giaxeri/criptoanalisis-clasico)** | Rompe cifrados César, Afín y Vigenère con índice de coincidencia, ji-cuadrado y método de Kasiski sobre el alfabeto español de 27 letras. | JavaScript · HTML5 |
+| 🔐 **[Criptoanálisis Clásico](https://github.com/Giaxeri/criptoanalisis-clasico)** · [▶ Probar](https://giaxeri.github.io/criptoanalisis-clasico/) | Rompe cifrados César, Afín y Vigenère con índice de coincidencia, ji-cuadrado y método de Kasiski sobre el alfabeto español de 27 letras. | JavaScript · HTML5 |
 | 🌐 **[Calculadora IPv4](https://github.com/Giaxeri/Redes-Maquina-Virtual)** | Subnetting: red, broadcast, rango de hosts, clase y tipo, con vista binaria. Desplegada en Apache sobre una VM. | PHP · Apache |
 
 ### Estadísticas
