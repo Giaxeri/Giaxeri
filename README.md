@@ -16,11 +16,10 @@
 
 ### Sobre mí
 
-- 🎓 Cursando **séptimo semestre** de Ingeniería de Sistemas en la Universidad El Bosque.
+- 🎓 Cursando **octavo semestre** de Ingeniería de Sistemas en la Universidad El Bosque.
 - 🔍 Buscando **práctica profesional** en desarrollo de software.
 - 🛠️ Me gusta entender los sistemas por dentro: motores de juego, formatos binarios, redes y criptografía.
 - 🧩 He trabajado en un motor 2.5D con **C++17 + Angular/Electron** y construí un motor de juego en **JavaScript puro**.
-- 💼 Experiencia como **Hardware Specialist** (soporte técnico en inglés) en Teleperformance.
 - 🏆 Ganador de la **Sección de Innovación** del concurso *We Are Energy* (ENEL).
 
 ### Tecnologías
