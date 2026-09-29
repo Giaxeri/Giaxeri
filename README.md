@@ -24,7 +24,7 @@
 ```javascript
 const gianfranco = {
   role: "Systems Engineering Student",
-  age: 21, // LV 21 ❤
+  age: 21, 
   semester: "8th",
   university: "Universidad El Bosque",
   location: "Bogotá, Colombia",
