@@ -168,3 +168,4 @@ cryptography — and turning that knowledge into tools that are clear, fast and 
 <img src="assets/footer.png" width="100%" alt="* (You are filled with DETERMINATION.)">
 
 </div>
+
