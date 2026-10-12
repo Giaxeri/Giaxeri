@@ -3,7 +3,7 @@
 <img src="assets/banner-lv21.png" width="100%" alt="* Hi! I am Gianfranco, 21 years old. LV 21">
 
 <a href="https://github.com/Giaxeri">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3400&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=720&height=46&lines=*+Hi!+I'm+Gianfranco.+LV+21.;*+Systems+Engineering+Student+%40+U.+El+Bosque;*+C%2B%2B+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+Python;*+Looking+for+a+software+internship.;*+You+feel+like+you're+going+to+have+a+good+time." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3400&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=720&height=46&lines=*+Hi!+I'm+Gianfranco.+LV+21.;*+Systems+Engineering+Student+%40;*+C%2B%2B+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+Python;*+Looking+for+a+software+internship.;*+You+feel+like+you're+going+to+have+a+good+time." alt="Typing SVG">
 </a>
 
 <p>
