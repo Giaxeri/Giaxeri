@@ -8,7 +8,6 @@
 
 <p>
   <a href="https://github.com/Giaxeri?tab=repositories"><img src="assets/btn-projects.png" width="23%" alt="Projects"></a>
-  <a href="https://www.linkedin.com/in/gianfranco-peniche-uribe-8b154a3b8/"><img src="assets/btn-linkedin.png" width="23%" alt="LinkedIn"></a>
   <a href="mailto:penichegianfranco@gmail.com"><img src="assets/btn-email.png" width="23%" alt="Email"></a>
   <a href="https://giaxeri.github.io/Determination-Battle-Simulator/"><img src="assets/btn-play.png" width="23%" alt="Play demo"></a>
 </p>
