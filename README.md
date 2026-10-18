@@ -8,7 +8,6 @@
 
 <p>
   <a href="https://github.com/Giaxeri?tab=repositories"><img src="assets/btn-projects.png" width="23%" alt="Projects"></a>
-  <a href="mailto:penichegianfranco@gmail.com"><img src="assets/btn-email.png" width="23%" alt="Email"></a>
   <a href="https://giaxeri.github.io/Determination-Battle-Simulator/"><img src="assets/btn-play.png" width="23%" alt="Play demo"></a>
 </p>
 
@@ -87,7 +86,6 @@ cryptography — and turning that knowledge into tools that are clear, fast and 
 | 🐝 **[HoneyComb Engine](https://github.com/dannn-36/HoneyCombEngine-PlataformaNoCode-2.5D)** | NoCode platform for isometric 2.5D games: a visual editor and a native runtime decoupled through a JSON Schema contract. I built editor & engine features and the cross-platform installer. *(Team of 3)* | C++17 · raylib · Angular · Electron · CMake |
 | ❤️ **[Determination Battle Simulator](https://github.com/Giaxeri/Determination-Battle-Simulator)** · [▶ Play](https://giaxeri.github.io/Determination-Battle-Simulator/) | Browser recreation of 9 UNDERTALE boss fights with 136 attacks. Custom zero-dependency engine, frame interpolation, Python binary asset extractor, EN/ES. | JavaScript · Canvas · Web Audio · Python |
 | 🔐 **[Classical Cryptanalysis](https://github.com/Giaxeri/criptoanalisis-clasico)** · [▶ Try it](https://giaxeri.github.io/criptoanalisis-clasico/) | Breaks Caesar, Affine and Vigenère ciphers using index of coincidence, chi-squared and the Kasiski method (27-letter Spanish alphabet). | JavaScript · HTML5 |
-| 🎰 **[Betting House Manager](https://github.com/Giaxeri/PRF_PROG1_20232_EspitiaAlejandra_GuerreroValentina_HernandezJuanPablo_PenicheGianfranco)** | Desktop app to manage branches, bettors, 5 games and reports. MVC + DAO/DTO, file persistence and 123 unit tests. | Java · Swing · JUnit |
 | 📻 **[Kubaru Forrest M](https://github.com/Giaxeri/KUBARUFORRESTM_FRONTEND)** | Web frontend to manage radio stations and songs with a built-in audio player, consuming a REST API. | Java EE · JSF · PrimeFaces · REST |
 | 🌐 **[IPv4 Subnet Calculator](https://github.com/Giaxeri/Redes-Maquina-Virtual)** | Network, broadcast, host range, class and type from an IP and mask, with a binary view. Deployed on Apache in a VM. | PHP · Apache |
 
@@ -157,8 +155,6 @@ cryptography — and turning that knowledge into tools that are clear, fast and 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gianfranco-peniche-uribe-8b154a3b8/"><img src="https://img.shields.io/badge/LinkedIn-Gianfranco_Peniche_Uribe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:penichegianfranco@gmail.com"><img src="https://img.shields.io/badge/Email-penichegianfranco%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 **Code • Systems • DETERMINATION**
 
